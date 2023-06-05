@@ -1,0 +1,62 @@
+.page-header,
+.page-footer{
+	background: #8aea92;
+	
+}
+
+.product > h2{
+	color:  #80ada0;
+}
+
+.camera {
+    color: #8895A5;
+}
+
+.laptop {
+    color: #73FFDE;
+}
+
+.mfu {
+    color: #555555;
+}
+
+.printer {
+    color:aliceblue
+}
+
+.product-1 {
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color: #FFF9E7;
+	border-radius: 15px;
+	list-style: none;
+}
+
+.product-2 {
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color: #414857;
+	border-radius: 15px;
+	list-style: none;
+}
+
+.product-3 {
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color: #858383;
+	border-radius: 15px;
+	list-style: none;
+}
+
+
+.product-4 {
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color: #586B91;
+	border-radius: 15px;
+	list-style: none;
+}
